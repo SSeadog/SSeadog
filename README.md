@@ -11,7 +11,8 @@
 • Mysql &nbsp;&nbsp; • Ms-sql
 
 ## 프로젝트
-<!-- 이미지 넣기-->
+<img src='./images/Recycle-Box.gif' height=200px />
+
 ### Recycle-Box
 - 자동 분리수거 쓰레기통
 - 아두이노와 파이썬을 이용해 개발
