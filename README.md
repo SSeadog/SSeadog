@@ -11,19 +11,27 @@
 • Mysql &nbsp;&nbsp; • Ms-sql
 
 ## 프로젝트
-<img src='./images/Recycle-Box.gif' height=200px />
 
 ### Recycle-Box
+
+<img src='./images/Recycle-Box.gif' width=400px />
+
 - 자동 분리수거 쓰레기통
 - 아두이노와 파이썬을 이용해 개발
 - yolov5 딥러닝 모델 이용
 
 ### Seadog_Home
+
+<img src='./images/SH_BB.gif' height=300px />
+
 - 개인 웹서버
 - PHP를 이용해 개발
 - Javascript를 이용해 Breakout 게임 구현
 
 ### Job_Scrapper
+
+<img src='./images/SSgif.gif' width=400px />
+
 - 채용공고 스크랩하는 웹 서버
 - Python의 flask 웹 프레임워크를 이용해 서버 구성
 - Beatiful Soup를 이용해 정보 추출
