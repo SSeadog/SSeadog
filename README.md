@@ -28,14 +28,14 @@
 
 - 개인 웹서버
 - PHP를 이용해 개발
-- Javascript를 이용해 Breakout 게임 구현
+- Javascript를 이용해 Breakout 게임 및 랭킹 시스템 구현
 
 ## Job_Scrapper
 
 <a href='https://github.com/SSeadog/Job_Scrapper_Python'><img src='./images/SSgif.gif' width=400px /></a>
 (이미지를 클릭하면 해당 프로젝트로 이동합니다)
 
-- 채용공고 스크랩하는 웹 서버
+- 채용공고를 스크랩하는 웹 서버
 - Python의 flask 웹 프레임워크를 이용해 서버 구성
 - Beatiful Soup를 이용해 정보 추출
 
