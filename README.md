@@ -1,5 +1,3 @@
-> 행동의 결과보단 원인을 분석하는 게 즐거운 SSeadog입니다
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SSeadog)](https://github.com/anuraghazra/github-readme-stats)
 
 # 사용기술
